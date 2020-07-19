@@ -12,5 +12,5 @@ Hi, I'm Griffin, currently a Solutions Engineer at Datadog, based in San Francis
 - 💧 Skincare.
 
 ## Find me at
-- Twitter: https://twitter.com/WingofaGriffin
-- Personal site: https://griffin.run
+- [Twitter](https://twitter.com/WingofaGriffin)
+- [My Website](https://griffin.run)
