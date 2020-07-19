@@ -1,16 +1,16 @@
-### Hi there 👋
+# Griffin; @WingofaGriffin
+Hi, I'm Griffin, currently a Solutions Engineer at Datadog, based in San Francisco.
 
-<!--
-**WingofaGriffin/WingofaGriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm passionate about
+- 🥑 Developer Relations, and the dev community as a whole.
+- 🐧 Linux. Usually a flavor of Arch.
+- 🔓 Open source software. Catch me in your issue section.
+- 🤖 APIs, and they apps, bots, and autmations they enable.
+- 📝 Good, extensive, documentation. No, your code is not self-documenting.
+- 🥘 Food, cooking, and the flavors of the world.
+- 🎵 Music. Especially EDM.
+- 💧 Skincare.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me at
+- Twitter: https://twitter.com/WingofaGriffin
+- Personal site: https://griffin.run
