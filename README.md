@@ -8,7 +8,7 @@ Hi, I'm Griffin, currently a Solutions Engineer at Datadog, based in San Francis
 
 🔓 Open source software. Catch me in your issue section.
 
-🤖 APIs, and they apps, bots, and autmations they enable.
+🤖 APIs, and the apps, bots, and autmations they enable.
 
 📝 Good, extensive, documentation. No, your code is not self-documenting.
 
