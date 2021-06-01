@@ -1,5 +1,5 @@
 # Griffin; @WingofaGriffin
-Hi, I'm Griffin, currently a Solutions Engineer at Datadog, based in San Francisco.
+Hi, I'm Griffin, currently a Developer Advocate at Dolby working on dolby.io, based in San Francisco.
 
 ## What I'm passionate about
 🥑 Developer Relations, and the dev community as a whole.
