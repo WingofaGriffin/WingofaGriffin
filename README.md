@@ -10,7 +10,7 @@ Hi, I'm Griffin, currently a Developer Advocate at Dolby working on dolby.io, ba
 
 🤖 APIs, and the apps, bots, and autmations they enable.
 
-📝 Good, extensive, documentation. No, your code is not self-documenting.
+📝 Good, extensive, documentation.
 
 🥘 Food, cooking, and the flavors of the world.
 
@@ -18,6 +18,13 @@ Hi, I'm Griffin, currently a Developer Advocate at Dolby working on dolby.io, ba
 
 💧 Skincare.
 
+## Current Stack
+- OS: [EndeavourOS](https://endeavouros.com/) (Personal) or macOS (Work)
+- Terminal Emulator: [WezTerm](https://github.com/wez/wezterm)
+- IDE: VSCode (Standalone) or [Micro](https://github.com/zyedidia/micro) (Terminal)
+- Languages: JavaScript, Python. Learning TypeScript.
+
 ## Find me at
 - [Twitter](https://twitter.com/WingofaGriffin)
 - [My Website](https://griffin.run)
+- [Dev.to](https://dev.to/wingofagriffin)
