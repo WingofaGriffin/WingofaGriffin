@@ -8,6 +8,7 @@ Hi, I'm Griffin, currently a Developer Advocate at Dolby working on dolby.io, ba
 - Languages: JavaScript, Python. Learning TypeScript. Interest in Rust.
 
 ## Find me at
+- <a rel="me" href="https://mas.to/@griffin">Mastodon</a>
 - [Twitter](https://twitter.com/WingofaGriffin)
 - [My Website](https://griffin.run)
 - [Dev.to](https://dev.to/wingofagriffin)
