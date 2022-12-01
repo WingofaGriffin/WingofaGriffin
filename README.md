@@ -1,6 +1,8 @@
 # Griffin; @WingofaGriffin
 Hi, I'm Griffin, currently a Developer Advocate at Dolby working on dolby.io, based in San Francisco.
 
+I also do some side projects in the emulation, Arch Linux, and Steam Deck space.
+
 ## Current Stack
 - OS: [Arch Linux](https://archlinux.org/) (Personal) or macOS (Work)
 - Terminal Emulator: [WezTerm](https://github.com/wez/wezterm) on Zsh using [Zsh Unplugged](https://github.com/mattmc3/zsh_unplugged)
