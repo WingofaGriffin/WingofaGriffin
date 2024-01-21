@@ -1,5 +1,5 @@
 # Griffin; @WingofaGriffin
-Hi, I'm Griffin, currently a Developer Advocate at Dolby working on dolby.io, based in San Francisco.
+Hi, I'm Griffin, currently a MBA Candidate at Judge Business School at the University of Cambridge.
 
 I also do some side projects in the emulation, Arch Linux, and Steam Deck space.
 
@@ -11,6 +11,5 @@ I also do some side projects in the emulation, Arch Linux, and Steam Deck space.
 
 ## Find me at
 - <a rel="me" href="https://mas.to/@griffin">Mastodon</a>
-- [Twitter](https://twitter.com/WingofaGriffin)
 - [My Website](https://griffin.run)
 - [Dev.to](https://dev.to/wingofagriffin)
