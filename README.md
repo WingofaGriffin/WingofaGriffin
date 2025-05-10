@@ -1,14 +1,14 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Griffin; @WingofaGriffin
-Hi, I'm Griffin, currently a MBA Candidate at Judge Business School at the University of Cambridge.
+Hi, I'm Griffin, currently a Technical Product Marketing Manager at Stytch.
 
 I also do some side projects in the emulation, Linux, and Steam Deck space.
 
 ## Current Stack
-- OS: [Arch Linux](https://archlinux.org/) (Personal) or macOS (Work)
-- Terminal Emulator: [WezTerm](https://github.com/wez/wezterm) on Zsh using [Zsh Unplugged](https://github.com/mattmc3/zsh_unplugged)
-- IDE: [VSCodium](https://github.com/VSCodium/vscodium) (Standalone) and [Micro](https://github.com/zyedidia/micro) (Terminal)
+- OS: [EndeavourOS](https://github.com/endeavouros-team) (Personal) or macOS (Work)
+- Terminal Emulator: [Ghostty](https://github.com/ghostty-org/ghostty) on Zsh using [Zsh Unplugged](https://github.com/mattmc3/zsh_unplugged)
+- IDE: [VSCode](https://github.com/microsoft/vscode) (Standalone) and [Micro](https://github.com/zyedidia/micro) (Terminal)
 
 ### Languages:
 <img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> JavaScript,
@@ -18,9 +18,11 @@ I also do some side projects in the emulation, Linux, and Steam Deck space.
 #### Learning:
 <img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> Swift,
 <img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> TypeScript,
-<img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> Go, <img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> Lua
+<img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> Go,
+<img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> Lua
 
 #### Interested in:
+<img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> Godot,
 <img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> Rust,
 <img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> Kotlin,
 <img height=14 length=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" /> Zig,
@@ -40,7 +42,3 @@ I also do some side projects in the emulation, Linux, and Steam Deck space.
 ## Find me at
 - <a rel="me" href="https://mas.to/@griffin">Mastodon</a>
 - [My Website](https://griffin.run)
-- [Dev.to](https://dev.to/wingofagriffin)
-
-
-          
